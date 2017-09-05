@@ -17,7 +17,7 @@ goto
 Each operator (binary or ternary) and operand must be separated by a single space.  
 etc... (the rule list goes on for 6 pages).  
 We are of course restricted in the use of external libraries and functions depending on each projects. We are expected to code every functions needed for the project if they are within our reach.  
-#Some interesting projects:  
+# Some interesting projects:  
 ft_printf which is a replica of the original printf function, you can check the list srcs in the printf.h
 get_next_line a useful function to read lines from a file
 
